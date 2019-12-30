@@ -1,12 +1,11 @@
 ### Date created
 Include the date you created this project and README file.
 
-December 23 2019
+December 30 2019
 
 ### Project Title
-Replace the Project Title
 
-Git Commands Project
+Git Commands Project 2019
 
 ### Description
 Describe what your project is about and what it does
@@ -25,3 +24,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Known Bugs
 While this Programming with R course did not specify a prereq of Python class, the third project requires a bikeshare.py file to complete the project which I did not work on as part of the program. This is a serious bug!
+
+Updated Bug on Dec 30 2019.
