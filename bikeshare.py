@@ -27,6 +27,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!!')
     print('I did not learn Python as part of this Udacity nanodegree program')
+    print('My mentor and I have been so frustrated because Python was not a prerequisite for the Programming for Data Science with R Nanodegree Program but this last project requires Python knowledge. I’ve tried to reach out to Udacity for over 4 weeks now but have literally been ghosted')
 
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
