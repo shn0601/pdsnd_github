@@ -22,3 +22,6 @@ bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+### Known Bugs
+While this Programming with R course did not specify a prereq of Python class, the third project requires a bikeshare.py file to complete the project which I did not work on as part of the program. This is a serious bug!
